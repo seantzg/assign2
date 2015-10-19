@@ -69,7 +69,7 @@ void draw() {
   //fighter
   image(fighterImg,580,240);
   
-  //hp 
+  //hp
   image(hpImg,20,15);   
   
   //hpBlood
@@ -78,3 +78,4 @@ void draw() {
   //treasure
   image(treasureImg,m,n);
 }
+ 
